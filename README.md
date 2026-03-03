@@ -14,9 +14,9 @@ Each prompt includes:
 - Prompt
 - Optional parameters (2K/4K, aspect ratio, text, etc.)
 
-## Live testing (optional)
-Some prompts are tested and iterated using:
-https://nanobanana-tools.com
+Live testing & prompt iteration can be done with platforms such as  
+👉 https://nanobanana-tools.com
+
 
 ## License & Credits
 This repository includes prompts and patterns adapted from open-source community collections.
