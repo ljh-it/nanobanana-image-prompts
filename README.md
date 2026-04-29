@@ -83,11 +83,11 @@ This repository is a community resource and does not guarantee specific outputs 
 <!-- DAILY_EXAMPLES_START -->
 ## 🗓 Latest Daily Examples
 
+- [2026-04-29-a-3d-rendered-digital-illustration-featuring-a-4f7e6c85](prompts/examples/daily/2026-04-29-a-3d-rendered-digital-illustration-featuring-a-4f7e6c85.md)
 - [2026-04-28-create-an-image-by-arranging-number-aggregate-1a65becb](prompts/examples/daily/2026-04-28-create-an-image-by-arranging-number-aggregate-1a65becb.md)
 - [2026-04-27-a-highly-stylized-and-vibrant-promotional-55178fef](prompts/examples/daily/2026-04-27-a-highly-stylized-and-vibrant-promotional-55178fef.md)
 - [2026-04-26-a-highly-stylized-and-vibrant-promotional-55178fef](prompts/examples/daily/2026-04-26-a-highly-stylized-and-vibrant-promotional-55178fef.md)
 - [2026-04-24-a-highly-stylized-and-vibrant-promotional-55178fef](prompts/examples/daily/2026-04-24-a-highly-stylized-and-vibrant-promotional-55178fef.md)
 - [2026-04-23-a-highly-stylized-and-vibrant-promotional-55178fef](prompts/examples/daily/2026-04-23-a-highly-stylized-and-vibrant-promotional-55178fef.md)
 - [2026-04-21-a-highly-stylized-and-vibrant-promotional-55178fef](prompts/examples/daily/2026-04-21-a-highly-stylized-and-vibrant-promotional-55178fef.md)
-- [2026-04-20-a-highly-stylized-and-vibrant-promotional-55178fef](prompts/examples/daily/2026-04-20-a-highly-stylized-and-vibrant-promotional-55178fef.md)
 <!-- DAILY_EXAMPLES_END -->
