@@ -83,11 +83,11 @@ This repository is a community resource and does not guarantee specific outputs 
 <!-- DAILY_EXAMPLES_START -->
 ## 🗓 Latest Daily Examples
 
+- [2026-05-09-highly-detailed-3d-rendered-chibi-figurine-diorama-58c5007b](prompts/examples/daily/2026-05-09-highly-detailed-3d-rendered-chibi-figurine-diorama-58c5007b.md)
 - [2026-05-08-highly-detailed-3d-rendered-chibi-figurine-diorama-58c5007b](prompts/examples/daily/2026-05-08-highly-detailed-3d-rendered-chibi-figurine-diorama-58c5007b.md)
 - [2026-05-06-highly-detailed-3d-rendered-chibi-figurine-diorama-58c5007b](prompts/examples/daily/2026-05-06-highly-detailed-3d-rendered-chibi-figurine-diorama-58c5007b.md)
 - [2026-04-30-highly-dramatic-and-epic-black-and-a65598e1](prompts/examples/daily/2026-04-30-highly-dramatic-and-epic-black-and-a65598e1.md)
 - [2026-04-29-a-3d-rendered-digital-illustration-featuring-a-4f7e6c85](prompts/examples/daily/2026-04-29-a-3d-rendered-digital-illustration-featuring-a-4f7e6c85.md)
 - [2026-04-28-create-an-image-by-arranging-number-aggregate-1a65becb](prompts/examples/daily/2026-04-28-create-an-image-by-arranging-number-aggregate-1a65becb.md)
 - [2026-04-27-a-highly-stylized-and-vibrant-promotional-55178fef](prompts/examples/daily/2026-04-27-a-highly-stylized-and-vibrant-promotional-55178fef.md)
-- [2026-04-26-a-highly-stylized-and-vibrant-promotional-55178fef](prompts/examples/daily/2026-04-26-a-highly-stylized-and-vibrant-promotional-55178fef.md)
 <!-- DAILY_EXAMPLES_END -->
