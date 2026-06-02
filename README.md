@@ -83,11 +83,11 @@ This repository is a community resource and does not guarantee specific outputs 
 <!-- DAILY_EXAMPLES_START -->
 ## 🗓 Latest Daily Examples
 
+- [2026-06-02-tiny-cute-isometric-smiling-optional-feb1319c](prompts/examples/daily/2026-06-02-tiny-cute-isometric-smiling-optional-feb1319c.md)
 - [2026-06-01-tiny-cute-isometric-smiling-optional-feb1319c](prompts/examples/daily/2026-06-01-tiny-cute-isometric-smiling-optional-feb1319c.md)
 - [2026-05-29-tiny-cute-isometric-smiling-optional-feb1319c](prompts/examples/daily/2026-05-29-tiny-cute-isometric-smiling-optional-feb1319c.md)
 - [2026-05-12-highly-detailed-3d-rendered-chibi-figurine-diorama-58c5007b](prompts/examples/daily/2026-05-12-highly-detailed-3d-rendered-chibi-figurine-diorama-58c5007b.md)
 - [2026-05-11-highly-detailed-3d-rendered-chibi-figurine-diorama-58c5007b](prompts/examples/daily/2026-05-11-highly-detailed-3d-rendered-chibi-figurine-diorama-58c5007b.md)
 - [2026-05-09-highly-detailed-3d-rendered-chibi-figurine-diorama-58c5007b](prompts/examples/daily/2026-05-09-highly-detailed-3d-rendered-chibi-figurine-diorama-58c5007b.md)
 - [2026-05-08-highly-detailed-3d-rendered-chibi-figurine-diorama-58c5007b](prompts/examples/daily/2026-05-08-highly-detailed-3d-rendered-chibi-figurine-diorama-58c5007b.md)
-- [2026-05-06-highly-detailed-3d-rendered-chibi-figurine-diorama-58c5007b](prompts/examples/daily/2026-05-06-highly-detailed-3d-rendered-chibi-figurine-diorama-58c5007b.md)
 <!-- DAILY_EXAMPLES_END -->
