@@ -83,11 +83,11 @@ This repository is a community resource and does not guarantee specific outputs 
 <!-- DAILY_EXAMPLES_START -->
 ## 🗓 Latest Daily Examples
 
+- [2026-08-27-tiny-cute-isometric-smiling-optional-feb1319c](prompts/examples/daily/2026-08-27-tiny-cute-isometric-smiling-optional-feb1319c.md)
 - [2026-08-25-tiny-cute-isometric-smiling-optional-feb1319c](prompts/examples/daily/2026-08-25-tiny-cute-isometric-smiling-optional-feb1319c.md)
 - [2026-08-24-tiny-cute-isometric-smiling-optional-feb1319c](prompts/examples/daily/2026-08-24-tiny-cute-isometric-smiling-optional-feb1319c.md)
 - [2026-08-12-tiny-cute-isometric-smiling-optional-feb1319c](prompts/examples/daily/2026-08-12-tiny-cute-isometric-smiling-optional-feb1319c.md)
 - [2026-08-10-tiny-cute-isometric-smiling-optional-feb1319c](prompts/examples/daily/2026-08-10-tiny-cute-isometric-smiling-optional-feb1319c.md)
 - [2026-08-09-tiny-cute-isometric-smiling-optional-feb1319c](prompts/examples/daily/2026-08-09-tiny-cute-isometric-smiling-optional-feb1319c.md)
 - [2026-08-07-tiny-cute-isometric-smiling-optional-feb1319c](prompts/examples/daily/2026-08-07-tiny-cute-isometric-smiling-optional-feb1319c.md)
-- [2026-08-06-tiny-cute-isometric-smiling-optional-feb1319c](prompts/examples/daily/2026-08-06-tiny-cute-isometric-smiling-optional-feb1319c.md)
 <!-- DAILY_EXAMPLES_END -->
